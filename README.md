@@ -9,6 +9,9 @@
 * The aim of the project is to develop visualisations of data.
 
 ## Technologies
-Project is created with:
+Projects are created in Python with:
 * matplotlib
 * numpy
+
+## Projects
+* Animated 3D scatter plots using list of 2D arrays
